@@ -53,6 +53,9 @@ A version of the [Schelling Coin](https://blog.ethereum.org/2014/03/28/schelling
 - If your vote agrees with the majority, and you are voted human, then you are deemed human
 - If your vote disagrees with the majority, or you are voted machine, then you are deemed machine
 
+_How is this video conference test different from CAPTCHA?_
+Not very. Primary difference is technical difficulty of passing the test with a machine. It is worth exploring replacing the video conference technique with some other test, such as CAPTCHA, or Go, or perhaps some other useful work that only Humans can do. Video conferencing was chosen initially as it appears more technically difficult for a machine to fake humanity, and has the ancillary benefit of increasing social bonds via technology (if only emphemerally).
+
 ##Next Steps
 As is clear, this is a very initial draft, with many questions to be answered. The author seeks input from all to:
 - Confirm that another system isn't already attempting this
