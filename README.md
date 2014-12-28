@@ -44,3 +44,15 @@ This is a risk similar to the risk BitCoin faces if any one actor gets more than
 
 _What prevents an attacker from employing very sophisticated AI and video rendering in order to fake humanity?_
 Aside from the technical difficulty at this time, this document currently has no proposals for mitigating that risk.
+
+_What voting system properly incentives correct behavior?_
+A version of the [Schelling Coin](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) system has been proposed that would incentivize proper behavior. For example, perhaps the rules could be as follows:
+
+- If your vote agrees with the majority, and you are voted human, then you are deemed human
+- If your vote disagrees with the majority, or you are voted machine, then you are deemed machine
+
+##Next Steps
+As is clear, this is a very initial draft, with many questions to be answered. The author seeks input from all to:
+- Confirm that another system isn't already attempting this
+- Determine if this is a potentially viable solution to an actual problem
+- Refine this solution to the point of actually being viable
