@@ -43,9 +43,11 @@ _What prevents an attacker from flooding the system with bots and voting itself 
 This is a risk similar to the risk BitCoin faces if any one actor gets more than 50% of voting power. Random selection of participants is meant to make this less feasible, but similar mitigation techniques and risk analysis from security experts is required.
 
 _What prevents an attacker from employing very sophisticated AI and video rendering in order to fake humanity?_
+
 Aside from the technical difficulty at this time, this document currently has no proposals for mitigating that risk.
 
 _What voting system properly incentives correct behavior?_
+
 A version of the [Schelling Coin](https://blog.ethereum.org/2014/03/28/schellingcoin-a-minimal-trust-universal-data-feed/) system has been proposed that would incentivize proper behavior. For example, perhaps the rules could be as follows:
 
 - If your vote agrees with the majority, and you are voted human, then you are deemed human
