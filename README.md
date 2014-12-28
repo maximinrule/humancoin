@@ -25,17 +25,21 @@ This document proposes expanding on this test as a way to positively identify hu
 Note that this document is in an early draft stage. All contributions via Issue tracking and pull requests is most welcome. What follows is an attempt to catalogue potential weaknesses in the system, as well as potential ways to address them. 
 
 _What makes HumanCoin valuable?_
+
 HumanCoin is produced by humans randomly interacting briefly everyday. As such, it is not backed by anything scarce and transferrable, like rare minerals. However, there may be applications where "proof of humanity" is valuable, such as in governance systems, as well as other systems not envisioned.  
 
 _What prevents one person from logging on with multiple accounts?_
+
 By limiting the number of times that this global conversation happens, the system relies on the fact that:
 - a) people can't be two places at once, and 
 - b) the other participants should be able to tell if someone is carrying on multiple conversations
 
 _What prevents people colluding?_
+
 Random selection of particpants across the network should ensure collusion is not very feasible.
 
 _What prevents an attacker from flooding the system with bots and voting itself as human?_
+
 This is a risk similar to the risk BitCoin faces if any one actor gets more than 50% of voting power. Random selection of participants is meant to make this less feasible, but similar mitigation techniques and risk analysis from security experts is required.
 
 _What prevents an attacker from employing very sophisticated AI and video rendering in order to fake humanity?_
